@@ -101,7 +101,7 @@ An interactive **Customer Behavior Dashboard** was built featuring:
 ├── data/
 │   └── customer_shopping_behavior.csv
 ├── notebooks/
-│   └── Customer_Behaviour_Analysis.ipynb
+│   └── EDA_cleaning.ipynb
 ├── sql/
 │   └── SQL file.sql
 ├── dashboard/
